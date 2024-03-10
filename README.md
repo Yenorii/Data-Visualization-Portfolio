@@ -12,11 +12,13 @@ Below is an overview of the projects included in this portfolio:
 - **Project Overview**: This interactive dashboard unveils the microbial species found in human navels, a part of the broader study of biodiversity in the human body. The visualization presents the bacterial species that colonize our belly buttons and how they may affect our daily lives.
 
 - **Features**:<br>
-
+- An interactive bar chart displaying the top 10 microbial species (OTUs) found in a participant's navel.
+- A bubble chart that showcases the relative frequency of all microbes in the sample.
+- A demographic information panel that provides the participant's metadata, enhancing the contextual understanding of the data.
 
 - **Deployment**: [Interactive Microbiodiversity Dashboard Live](https://yenorii.github.io/belly-button-challenge/)
 
-### [Project 2: Live Earthquake Map]()
+### [Project 2: Live Earthquake Map](https://github.com/Yenorii/leaflet-challenge/tree/67502a685df8e743027ac08aae2bfb6e107df80f)
 
 - **Project Overview**:<br>
 This project leverages Leaflet.js to create an interactive map visualizing live earthquake data. It pulls real-time data from the United States Geological Survey (USGS) to depict the location, magnitude, and depth of earthquakes around the globe. This visualization aims to provide insights into seismic activity patterns and their impact on various regions.

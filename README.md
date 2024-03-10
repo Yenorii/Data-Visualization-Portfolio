@@ -12,8 +12,8 @@ Below is an overview of the projects included in this portfolio:
 - **Project Overview**: This interactive dashboard unveils the microbial species found in human navels, a part of the broader study of biodiversity in the human body. The visualization presents the bacterial species that colonize our belly buttons and how they may affect our daily lives.
 
 - **Features**:<br>
-- An interactive bar chart displaying the top 10 microbial species (OTUs) found in a participant's navel.
-- A bubble chart that showcases the relative frequency of all microbes in the sample.
+- Interactive bar charts displaying the top 10 microbial species (OTUs) found in each participant's navel.
+- Bubble charts that showcase the relative frequency of all microbes in the sample.
 - A demographic information panel that provides the participant's metadata, enhancing the contextual understanding of the data.
 
 - **Deployment**: [Interactive Microbiodiversity Dashboard Live](https://yenorii.github.io/belly-button-challenge/)

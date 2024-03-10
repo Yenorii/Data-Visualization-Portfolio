@@ -7,7 +7,7 @@ Welcome to my Data Visualization Portfolio! Here, you will find a collection of 
 
 Below is an overview of the projects included in this portfolio:
 
-### [Project 1: Interactive Microbiodiversity Dashboard](/Microbiodiversity-Dashboard)
+### [Project 1: Interactive Microbiodiversity Dashboard](https://github.com/Yenorii/belly-button-challenge/tree/0a5da4358acc613300092a7cc91c5a509d33c66b)
 
 - **Project Overview**: This interactive dashboard unveils the microbial species found in human navels, a part of the broader study of biodiversity in the human body. The visualization presents the bacterial species that colonize our belly buttons and how they may affect our daily lives.
 

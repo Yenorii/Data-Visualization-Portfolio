@@ -1,3 +1,6 @@
 [submodule "/Users/yenori/Desktop/GitHub/Data-Visualization-Portfolio/Microbiodiversity-Dashboard"]
 	path = /Users/yenori/Desktop/GitHub/Data-Visualization-Portfolio/Microbiodiversity-Dashboard
 	url = https://github.com/Yenorii/belly-button-challenge.git
+[submodule "Microbiodiversity-Dashboard"]
+	path = Microbiodiversity-Dashboard
+	url = https://github.com/Yenorii/belly-button-challenge.git

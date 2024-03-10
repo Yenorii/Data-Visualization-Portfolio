@@ -19,8 +19,8 @@ Below is an overview of the projects included in this portfolio:
 - **Deployment**: [Interactive Microbiodiversity Dashboard Live](https://yenorii.github.io/belly-button-challenge/)
 
 
-![](<Screenshot 1.png>)
-![](<Screenshot 2.png>)
+![](<Images/Screenshot 1.png>)
+![](<Images/Screenshot 2.png>)
 
 ### [Project 2: Live Earthquake Map](https://github.com/Yenorii/leaflet-challenge/tree/67502a685df8e743027ac08aae2bfb6e107df80f)
 
@@ -35,4 +35,4 @@ This project leverages Leaflet.js to create an interactive map visualizing live 
 
 - **Deployment**: [View the Live Earthquake Map](https://yenorii.github.io/leaflet-challenge/)
 
-![](<Screenshot 3.png>)
+![](<Images/Screenshot 3.png>)

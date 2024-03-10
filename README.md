@@ -1,7 +1,7 @@
 # Data-Visualization-Portfolio
 ## Yenori Alvarez's Data Visualization Portfolio
 
-Welcome to my Data Visualization Portfolio! Here, you will find a collection of projects I have worked on using various tools and technologies in data science and analysis. Each project is unique, uncovering different insights across various sectors and telling stories mainly through visual representations. If you are interested in my work, similar visualizations, or have a project in mind, feel free to get in touch with me [here](https://www.linkedin.com/in/yenori-alvarez-13a66b186/).
+Welcome to my Data Visualization Portfolio! Here, you will find a collection of projects I have worked on using various tools and technologies in data science and analysis. Each project is unique, uncovering different insights across various sectors and telling stories mainly through visual representations. If you are interested in my work, similar visualizations, or have a project in mind, feel free to get in touch with me [here](https://www.linkedin.com/in/yenori-alvarez-13a66b186/) or email me at yenoriialvarez@gmail.com.
 
 ## Projects Overview
 
@@ -18,6 +18,11 @@ Below is an overview of the projects included in this portfolio:
 
 - **Deployment**: [Interactive Microbiodiversity Dashboard Live](https://yenorii.github.io/belly-button-challenge/)
 
+![](<Screenshot 2024-03-09 at 10.07.32 PM.png>)
+
+![](<Screenshot 2024-03-09 at 10.09.33 PM.png>)
+
+
 ### [Project 2: Live Earthquake Map](https://github.com/Yenorii/leaflet-challenge/tree/67502a685df8e743027ac08aae2bfb6e107df80f)
 
 - **Project Overview**:<br>
@@ -30,3 +35,5 @@ This project leverages Leaflet.js to create an interactive map visualizing live 
 - Interactive tooltips provide detailed information about each earthquake upon mouseover.
 
 - **Deployment**: [View the Live Earthquake Map](https://yenorii.github.io/leaflet-challenge/)
+
+![](<Screenshot 2024-03-09 at 10.11.42 PM.png>)
